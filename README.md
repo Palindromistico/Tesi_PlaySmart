@@ -1,6 +1,6 @@
 # Tesi_PlaySmart
  
- L'app permette di creare partite di calcetto e di prenotare il campo, tramite paypal, tra una lista predefinita di campi (ipoteticamente convenzionati) e di cercare quindi un numero i giocatori mancanti  
+ L'app permette di creare partite di calcetto e di prenotare il campo, tramite paypal, tra una lista predefinita di campi (ipoteticamente convenzionati) e di cercare quindi il numero di giocatori mancanti  
  alla registrazione verrà chiesto username, indirizzo e se il giocatore è disponibile anche per giocare come portiere  
  l'utente che crea la partita sceglierà quindi il campo specificando il numero di giocatori e il numero di portieri mancanti (massimo 2)  
  agli utentii verranno mostrate le partite create in uno specifico raggio d'azione calcolato in base all'indirizzo (non verranno mostrate le partite create dallo stesso utente)  
