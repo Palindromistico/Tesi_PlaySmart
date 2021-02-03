@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950408921260",
+    "project_id": "playsmart-4aac5",
+    "storage_bucket": "playsmart-4aac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950408921260:android:def1d5411e57ffa55d5f09",
+        "android_client_info": {
+          "package_name": "com.example.playsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950408921260-rtvmtjrb5n469ij8aj7osmn0pb680mcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6rWIk6ghAtPgNmep8cgYxyZP4eipGPRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950408921260-rtvmtjrb5n469ij8aj7osmn0pb680mcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
